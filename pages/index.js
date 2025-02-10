@@ -6,7 +6,7 @@ function Home() {
     <>
       <div>
         <h1>
-          Eu amo você, Maria Eduarda Pacheco Anunciato. Também amo muito o
+          Eu amo você, minha Vida. Também amo muito o
           Chiquin fedido. ❤
         </h1>
       </div>
