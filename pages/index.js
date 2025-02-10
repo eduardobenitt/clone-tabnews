@@ -1,5 +1,4 @@
 import React from "react";
-import chicoImage from './images/chico.jpg'
 
 function Home(){
     return  (
@@ -7,7 +6,7 @@ function Home(){
             <h1>Eu amo você, Maria Eduarda Pacheco Anunciato. Também amo muito o Chiquin fedido. ❤</h1>
         </div>
         <div>
-            <img src={chicoImage} alt="Chiquin" />
+            <img src="/images/chico.jpg" alt="Chiquin" />
         </div></>        
 
     );
