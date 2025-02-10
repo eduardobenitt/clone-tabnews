@@ -8,7 +8,7 @@ function Home(){
         </div>
         <div>
             <Image
-                src="/images/chico.jpg"
+                src="/images/chico.PNG"
                 alt="Chiquin"
                 width={500}
                 height={300}
