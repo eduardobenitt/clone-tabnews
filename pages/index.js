@@ -5,18 +5,10 @@ function Home() {
   return (
     <>
       <div>
-        <h1>
-          Eu amo você, minha Vida. Também amo muito o
-          Chiquin fedido. ❤
-        </h1>
+        <h1>Eu amo você, minha Vida. Também amo muito o Chiquin fedido. ❤</h1>
       </div>
       <div>
-        <Image
-          src="/images/chico.png"
-          alt="Chiquin"
-          width={500}
-          height={300}
-        />
+        <Image src="/images/chico.png" alt="Chiquin" width={500} height={300} />
       </div>
     </>
   );
